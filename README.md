@@ -6,5 +6,5 @@ calculates leftover money from income after expenses and savings
 
 ###how to run
 1.Clone the repository 
-2.Run 'budget_calculator.py'
+2.Run 'Budget Calculator.py'
 3.Follow the prompts to enter income and expenses
